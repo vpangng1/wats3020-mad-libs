@@ -43,7 +43,7 @@ requirements:
 If you want to push this project further, you can try some of the following:
 
 * Enhance the styling of the page.
-* Convert the use of `prompt()` into using a proper webform (this will require you to use many more of the `document` and element manipulation methods).
 * Change the markup surrounding the output poem to facilitate more interesting stuff.
 * See how far you can push things with making up new words based on what the user submitted.
 * Use conditionals to alter some presentation or content based on the information the user has submitted.
+* Convert the use of `prompt()` into using a proper webform (this will require you to use many more of the `document` and element manipulation methods). (NOTE: This is a serious stretch. You will need to use the `onsubmit` attribute of a `<form>` tag, or you will need to set up an event handler. And you will need to move your madlibs code into a JavaScript function.)
