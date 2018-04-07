@@ -91,6 +91,7 @@ let userNumber = prompt('Enter a number that is not 0');
 // TODONE: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
+
 let number2 = userNumber + 2;
 let number3 = userNumber**2;
 
