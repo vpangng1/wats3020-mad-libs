@@ -92,8 +92,8 @@ let userNumber = prompt('Enter a number that is not 0');
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
 
-let number2 = userNumber + 2;
-let number3 = userNumber**2;
+let number2 = userNumber**2;
+let number3 = userNumber/2 + (userNumber/2);
 
 // DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////
 //
